@@ -4,4 +4,4 @@
 
 A very basic version of the code, hope it helps :))
 
-[+] Support the dev by following and starring the repo.
+[] Support the dev by following and starring the repo.
